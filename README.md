@@ -1,2 +1,2 @@
-# cratebot_bringup
-The starting library for Cratebot running under ROS2
+# zinger_bringup
+The starting library for Zinger running under ROS2
